@@ -20,6 +20,17 @@ let addressesnotls = [
 	'www.visa.com.sg#官方优选域名',
 	'www.wto.org:8080#官方优选域名',
 	'www.who.int:8880#官方优选域名',
+	'visa.cn:2087#优选域名',
+'visa.co.jp:2087#优选域名',
+'visa.com.sg:2087#优选域名',
+'proxyip.oracle.fxxk.dedyn.io:2087#优选域名',
+'visa.com.sg:2087#优选域名',
+'cf.zhetengsha.eu.org:2087#优选域名',
+'visa.com.sg:2087#优选域名',
+'dsxys.pro:2087#优选域名',
+'visa.com.sg:2087#优选域名',
+'cf.877771.xyz:2087#优选域名',
+'visa.com.sg:2087#优选域名',
 ];
 
 // 设置优选noTLS地址api接口
