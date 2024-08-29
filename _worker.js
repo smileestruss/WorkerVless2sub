@@ -5,23 +5,14 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
+	'visa.cn:2087#优选域名',
+	'proxyip.oracle.fxxk.dedyn.io:2087#优选域名',
+	'cf.zhetengsha.eu.org:2087#优选域名',
+	'dsxys.pro:2087#优选域名',
+	'cf.877771.xyz:2087#优选域名',
 	'icook.tw:2053#官方优选域名',
 	'cloudflare.cfgo.cc#优选官方线路',
-	'www.visa.com.sg#官方优选域名',
-	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
-	'visa.cn:2087#优选域名',
-	'visa.co.jp:2087#优选域名',
-	'visa.com.sg:2087#优选域名',
-	'proxyip.oracle.fxxk.dedyn.io:2087#优选域名',
-	'visa.com.sg:2087#优选域名',
-	'cf.zhetengsha.eu.org:2087#优选域名',
-	'visa.com.sg:2087#优选域名',
-	'dsxys.pro:2087#优选域名',
-	'visa.com.sg:2087#优选域名',
-	'cf.877771.xyz:2087#优选域名',
-	'visa.com.sg:2087#优选域名',
-];
+	];
 
 // 设置优选地址api接口
 let addressesapi = [
